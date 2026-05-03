@@ -1,0 +1,12 @@
+{
+  "name": "dailytake-bot",
+  "version": "1.0.0",
+  "description": "Polymarket daily take Discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
